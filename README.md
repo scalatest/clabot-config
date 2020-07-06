@@ -1,0 +1,2 @@
+# clabot-config
+ClaBot Config
